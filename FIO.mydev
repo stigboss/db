@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Devart (www.devart.com), the Project File -->
+<!-- Modifying this generated file will probably render it invalid -->
+<DatabaseProject Version="1.0.1" Guid="c5775a06-1a25-49a4-abe8-e45ff061361d">
+  <Provider Guid="59f90733-4d68-4fdf-82a7-f0fcbf5460aa" />
+  <Configurations Active="По умолчанию">
+    <Configuration Name="По умолчанию" CheckReferences="True" IgnoreErrors="False" OutputPath="" Target="" OutputType="SingleFile" KeepOriginalObjects="True" RecreateObjects="False" RecreateDatabase="False" ServerVersion="5.7.4" Database="BD" UseRegions="False" FullPaths="False" Definer="CURRENT_USER" ScriptDelimiter="$$" StorageEngine="INNODB" Collation="utf8_general_ci" ConvertToLowercase="False" DefinerEffect="Keep">
+      <Build />
+    </Configuration>
+  </Configurations>
+</DatabaseProject>
